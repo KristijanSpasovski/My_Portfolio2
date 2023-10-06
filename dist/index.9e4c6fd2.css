@@ -4,23 +4,127 @@
   background-color: #000;
   margin: 0;
   padding: 0;
+  font-family: Poppins;
 }
 
 .container {
+  flex-wrap: wrap;
   justify-content: space-between;
   align-items: center;
-  margin: 25px;
+  margin: 25px 25px 0;
   display: flex;
 }
 
+.main-sec {
+  height: 70vh;
+}
+
 ul {
-  gap: 50px;
+  flex-wrap: wrap;
+  gap: 80px;
   list-style-type: none;
   display: flex;
 }
 
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
 .hero-image {
-  height: 500px;
+  z-index: 1;
+  background-color: #0000;
+  border: 15px solid #e40037;
+  border-radius: 50%;
+  align-self: flex-end;
+  width: 420px;
+  height: 400px;
+  box-shadow: inset 0 0 20px #e40037, 0 0 20px #e40037;
+}
+
+.hero-left {
+  flex-grow: 0;
+  flex-basis: 650px;
+  font-size: 15px;
+}
+
+.btn {
+  color: #000;
+  background-color: #e40037;
+  border: 3px solid #e40037;
+  border-radius: 5px;
+  flex-wrap: wrap;
+  justify-content: right;
+  margin-top: 25px;
+  padding: 5px;
+  transition: all .3s;
+  display: flex;
+}
+
+.btn:hover {
+  color: #fff;
+  border: solid #fff;
+  transform: scale(1.2);
+  box-shadow: inset 0 0 20px #e40037, 0 0 20px #e40037;
+}
+
+h2 {
+  text-shadow: 0 0 20px #e40037;
+  font-size: 36px;
+}
+
+.name {
+  text-align: right;
+  flex-flow: column wrap;
+  justify-content: center;
+  font-size: 30px;
+  display: flex;
+}
+
+span {
+  text-align: right;
+  border-top: 1px solid #e40037;
+  font-weight: bold;
+  display: block;
+}
+
+.pm {
+  z-index: 2;
+  background: linear-gradient(#0000, #000);
+  width: 400px;
+  height: 100px;
+  position: absolute;
+  bottom: 80px;
+  right: 38px;
+}
+
+.fa {
+  text-align: center;
+  color: #000;
+  background-color: #e40037;
+  border: 1px solid;
+  border-radius: 50%;
+  width: 35px;
+  height: 35px;
+  padding: 8px 8px 10px;
+  font-size: 20px;
+  text-decoration: none;
+  transition: all .3s;
+}
+
+.fa:hover {
+  color: #fff;
+  transform: scale(1.5);
+  box-shadow: inset 0 0 20px #e40037, 0 0 20px #e40037;
+}
+
+.socials {
+  flex-wrap: wrap;
+  justify-content: left;
+  gap: 10px;
+  margin-left: 25px;
+  font-family: Poppins;
+  display: flex;
 }
 
 /*# sourceMappingURL=index.9e4c6fd2.css.map */
