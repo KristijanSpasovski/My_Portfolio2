@@ -15,6 +15,20 @@
   display: flex;
 }
 
+.container_2 {
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin: 25px 25px 100px;
+  display: flex;
+}
+
+header {
+  z-index: 5;
+  position: sticky;
+  top: 0;
+}
+
 .main-sec {
   height: 70vh;
 }
@@ -88,14 +102,28 @@ span {
   display: block;
 }
 
-.pm {
-  z-index: 2;
-  background: linear-gradient(#0000, #000);
-  width: 400px;
-  height: 100px;
-  position: absolute;
-  bottom: 80px;
-  right: 38px;
+.container_2 p {
+  text-shadow: 0 0 20px #e40037;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.container_2 ul {
+  gap: 0;
+}
+
+.spec {
+  color: #fff;
+  border: 0;
+  flex-wrap: wrap;
+  font-size: 20px;
+  display: flex;
+}
+
+.lang-icons {
+  flex-wrap: wrap;
+  width: 250px;
+  display: flex;
 }
 
 .fa {
@@ -120,9 +148,10 @@ span {
 
 .socials {
   flex-wrap: wrap;
-  justify-content: left;
-  gap: 10px;
-  margin-left: 25px;
+  justify-content: center;
+  gap: 15px;
+  margin-bottom: 25px;
+  margin-right: 25px;
   font-family: Poppins;
   display: flex;
 }
