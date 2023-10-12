@@ -2,9 +2,20 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: #000;
-  color: #e40037;
+  /* background-color: #000; */
+  color: #fff;
   font-family: "Poppins";
+}
+
+body {
+  background-image: url(images/html-system-website-concept.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+h1 {
+  margin-left: 20px;
+  color: #00bb86;
 }
 
 .container {
@@ -12,7 +23,6 @@
   flex-wrap: wrap;
   justify-content: space-between;
   align-items: center;
-  margin: 25px;
   margin-bottom: 0px;
 }
 
@@ -39,12 +49,17 @@ header nav a:hover {
   align-items: flex-start;
   margin: 25px;
   margin-bottom: 100px;
+  padding: 10px;
+  width: 70%;
+  background-color: rgba(26, 21, 87, 0.8);
+  border-radius: 10px;
 }
 
 header {
   position: sticky;
   top: 0;
   z-index: 5;
+  background-color: rgba(26, 21, 87, 0.8);
 }
 
 .main-sec {
@@ -63,11 +78,11 @@ ul {
   height: 400px;
   width: 420px;
   align-self: flex-end;
-  background-image: url(images/prog-background.png);
-  background-position: center;
+  background-image: url(images/html-system-website-concept.jpg);
+  background-position: bottom;
   border-radius: 50%;
-  border: 15px solid #e40037;
-  box-shadow: inset 0 0 20px #e40037, 0 0 20px #e40037;
+  border: 15px solid #fff;
+  box-shadow: inset 0 0 20px #00bb86, 0 0 20px #00bb86;
   z-index: 1;
 }
 
@@ -75,18 +90,23 @@ ul {
   flex-grow: 0;
   flex-basis: 650px;
   font-size: 15px;
+  margin-left: 25px;
+  border-radius: 10px;
+  background-color: rgba(26, 21, 87, 0.8);
+  padding: 10px;
 }
 
 .btn {
   display: flex;
   flex-wrap: wrap;
   justify-content: right;
-  border: 3px solid #e40037;
+  border: 3px solid #00bb86;
   border-radius: 5px;
   padding: 5px;
   margin-top: 25px;
-  background-color: #e40037;
+  background-color: #00bb86;
   color: #000;
+  cursor: pointer;
   transition: all 0.3s;
 }
 
@@ -94,12 +114,13 @@ ul {
   transform: scale(1.2);
   color: #fff;
   border: solid #fff;
-  box-shadow: inset 0 0 20px #e40037, 0 0 20px #e40037;
+  box-shadow: inset 0 0 20px #00bb86, 0 0 20px #00bb86;
 }
 
 h2 {
   font-size: 36px;
-  text-shadow: 0 0 20px #e40037;
+  color: #00bb86;
+  text-shadow: 0 0 30px #00bb86;
 }
 
 .name {
@@ -109,18 +130,22 @@ h2 {
   justify-content: center;
   font-size: 30px;
   text-align: right;
+  margin-right: 25px;
+  color: #00bb86;
 }
 
 span {
   display: block;
   text-align: right;
   font-weight: bold;
-  border-top: 1px solid #e40037;
+  color: #00bb86;
+  border-top: 1px solid #fff;
 }
 
 h3 {
   font-size: 36px;
-  text-shadow: 0 0 20px #e40037;
+  color: #00bb86;
+  text-shadow: 0 0 20px #00bb86;
   font-weight: bold;
 }
 
@@ -132,7 +157,7 @@ h3 {
   display: flex;
   flex-wrap: wrap;
   font-size: 20px;
-  color: #fff;
+  color: #00bb86;
   border: 0;
 }
 
@@ -153,7 +178,7 @@ h3 {
   text-align: center;
   border-radius: 50%;
   text-decoration: none;
-  background-color: #e40037;
+  background-color: #00bb86;
   color: #000;
   transition: all 0.3s;
 }
@@ -161,7 +186,7 @@ h3 {
 .fa:hover {
   transform: scale(1.5);
   color: #fff;
-  box-shadow: inset 0 0 20px #e40037, 0 0 20px #e40037;
+  box-shadow: inset 0 0 20px #00bb86, 0 0 20px #00bb86;
 }
 
 .socials {
@@ -180,6 +205,28 @@ h3 {
     justify-content: space-between;
   }
 
+  .container_2 {
+    margin-bottom: 25px;
+  }
+
+  h1 {
+    margin-left: 5px;
+  }
+
+  .name {
+    margin-right: 5px;
+  }
+
+  header nav {
+    display: flex;
+    gap: 2px;
+  }
+
+  .hero-left {
+    margin-right: 25px;
+    margin-top: px;
+  }
+
   h1,
   .name,
   h2,
@@ -195,6 +242,7 @@ h3 {
     display: flex;
     flex-wrap: wrap;
     font-size: 0.6rem;
+    margin-right: 10px;
   }
 
   .btn {
@@ -205,10 +253,9 @@ h3 {
 
   .hero-image {
     display: flex;
-    margin-left: 2.75rem;
-    margin-right: 2.75rem;
-    height: 13rem;
-    width: 14rem;
+    margin: 2px 5rem 0 4.75rem;
+    height: 199px;
+    width: 208px;
     border: 0.4rem solid;
   }
 
@@ -229,10 +276,15 @@ h3 {
     font-size: 1.1rem;
   }
 
+  .hero-left {
+    margin-top: 5px;
+  }
+
   .hero-image {
     margin: auto;
+    margin-top: 2px;
     width: 270px;
-    height: 270px;
+    height: 250px;
     border: 10px solid;
   }
 }
