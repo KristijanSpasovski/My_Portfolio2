@@ -1,17 +1,27 @@
 * {
   box-sizing: border-box;
-  color: #e40037;
-  background-color: #000;
+  color: #fff;
   margin: 0;
   padding: 0;
   font-family: Poppins;
+}
+
+body {
+  background-image: url("html-system-website-concept.a7109f3e.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+h1 {
+  color: #00bb86;
+  margin-left: 20px;
 }
 
 .container {
   flex-wrap: wrap;
   justify-content: space-between;
   align-items: center;
-  margin: 25px 25px 0;
+  margin-bottom: 0;
   display: flex;
 }
 
@@ -32,15 +42,20 @@ header nav a:hover {
 }
 
 .container_2 {
+  background-color: #1a1557cc;
+  border-radius: 10px;
   flex-wrap: wrap;
   justify-content: space-between;
   align-items: flex-start;
+  width: 70%;
   margin: 25px 25px 100px;
+  padding: 10px;
   display: flex;
 }
 
 header {
   z-index: 5;
+  background-color: #1a1557cc;
   position: sticky;
   top: 0;
 }
@@ -58,27 +73,32 @@ ul {
 
 .hero-image {
   z-index: 1;
-  background-image: url("prog-background.0b6c265d.png");
-  background-position: center;
-  border: 15px solid #e40037;
+  background-image: url("html-system-website-concept.a7109f3e.jpg");
+  background-position: bottom;
+  border: 15px solid #fff;
   border-radius: 50%;
   align-self: flex-end;
   width: 420px;
   height: 400px;
   margin-right: 55px;
-  box-shadow: inset 0 0 20px #e40037, 0 0 20px #e40037;
+  box-shadow: inset 0 0 20px #00bb86, 0 0 20px #00bb86;
 }
 
 .hero-left {
+  background-color: #1a1557cc;
+  border-radius: 10px;
   flex-grow: 0;
   flex-basis: 650px;
+  margin-left: 25px;
+  padding: 10px;
   font-size: 15px;
 }
 
 .btn {
   color: #000;
-  background-color: #e40037;
-  border: 3px solid #e40037;
+  cursor: pointer;
+  background-color: #00bb86;
+  border: 3px solid #00bb86;
   border-radius: 5px;
   flex-wrap: wrap;
   justify-content: right;
@@ -92,31 +112,36 @@ ul {
   color: #fff;
   border: solid #fff;
   transform: scale(1.2);
-  box-shadow: inset 0 0 20px #e40037, 0 0 20px #e40037;
+  box-shadow: inset 0 0 20px #00bb86, 0 0 20px #00bb86;
 }
 
 h2 {
-  text-shadow: 0 0 20px #e40037;
+  color: #00bb86;
+  text-shadow: 0 0 30px #00bb86;
   font-size: 36px;
 }
 
 .name {
   text-align: right;
+  color: #00bb86;
   flex-flow: column wrap;
   justify-content: center;
+  margin-right: 25px;
   font-size: 30px;
   display: flex;
 }
 
 span {
   text-align: right;
-  border-top: 1px solid #e40037;
+  color: #00bb86;
+  border-top: 1px solid #fff;
   font-weight: bold;
   display: block;
 }
 
 h3 {
-  text-shadow: 0 0 20px #e40037;
+  color: #00bb86;
+  text-shadow: 0 0 20px #00bb86;
   font-size: 36px;
   font-weight: bold;
 }
@@ -126,7 +151,7 @@ h3 {
 }
 
 .spec {
-  color: #fff;
+  color: #00bb86;
   border: 0;
   flex-wrap: wrap;
   font-size: 20px;
@@ -142,7 +167,7 @@ h3 {
 .fa {
   text-align: center;
   color: #000;
-  background-color: #e40037;
+  background-color: #00bb86;
   border: 1px solid;
   border-radius: 50%;
   width: 35px;
@@ -156,7 +181,7 @@ h3 {
 .fa:hover {
   color: #fff;
   transform: scale(1.5);
-  box-shadow: inset 0 0 20px #e40037, 0 0 20px #e40037;
+  box-shadow: inset 0 0 20px #00bb86, 0 0 20px #00bb86;
 }
 
 .socials {
@@ -175,12 +200,35 @@ h3 {
     display: flex;
   }
 
+  .container_2 {
+    margin-bottom: 25px;
+  }
+
+  h1 {
+    margin-left: 5px;
+  }
+
+  .name {
+    margin-right: 5px;
+  }
+
+  header nav {
+    gap: 2px;
+    display: flex;
+  }
+
+  .hero-left {
+    margin-right: 25px;
+    margin-top: px;
+  }
+
   h1, .name, h2, h3, main section p, ul .spec, ul li, header nav a {
     font-size: 1rem;
   }
 
   header nav a {
     flex-wrap: wrap;
+    margin-right: 10px;
     font-size: .6rem;
     display: flex;
   }
@@ -193,10 +241,9 @@ h3 {
 
   .hero-image {
     border: .4rem solid;
-    width: 14rem;
-    height: 13rem;
-    margin-left: 2.75rem;
-    margin-right: 2.75rem;
+    width: 208px;
+    height: 199px;
+    margin: 2px 5rem 0 4.75rem;
     display: flex;
   }
 
@@ -210,11 +257,15 @@ h3 {
     font-size: 1.1rem;
   }
 
+  .hero-left {
+    margin-top: 5px;
+  }
+
   .hero-image {
     border: 10px solid;
     width: 270px;
-    height: 270px;
-    margin: auto;
+    height: 250px;
+    margin: 2px auto auto;
   }
 }
 

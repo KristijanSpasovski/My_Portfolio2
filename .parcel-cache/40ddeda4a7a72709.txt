@@ -1,7 +1,4 @@
-5881
-78C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\dotenv133410148624571673 1
-71C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\package.json133411004623494561 0
-101C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\svgo\plugins\removeDoctype.js133410148684509866 0
+5885
 157C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\AttributeSelector.js133410148633132993 0
 128C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\dom-serializer\node_modules\entities\lib\encode.d.ts.map133410148649230756 0
 139C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeTitle.js133410148688450089 0
@@ -11,6 +8,9 @@
 103C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\weak-lru-cache\rollup.config.js133410148624576830 0
 106C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\@swc\helpers\cjs\_ts_generator.cjs133410148693526613 0
 76C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\package-lock.json133410148746868922 0
+102C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\csso\lib\replace\Percentage.js133410148692961962 0
+81C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\commander133410148631882778 1
+66C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\.vscode133427349281483804 1
 69C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\.gitignore133410149843189682 0
 105C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\caniuse-lite\data\features\let.js133410148717897214 0
 109C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\@swc\helpers\src\_new_arrow_check.mjs133410148715510522 0
@@ -25,9 +25,9 @@
 98C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\nth-check\lib\compile.d.ts133410148674703515 0
 119C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\caniuse-lite\data\features\css-cascade-scope.js133410148699396601 0
 81C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\is-number133410148615953835 1
-63C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\dist133413505218888640 1
+63C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\dist133428848538380674 1
 88C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\posthtml\license133410148611871231 0
-65C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\images133411783552574844 1
+65C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\images133427349284457798 1
 119C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\@parcel\transformer-html\src\HTMLTransformer.js133410148624671084 0
 112C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\css-tree\cjs\lexer\generic-an-plus-b.cjs133410148686297829 0
 90C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\domhandler\LICENSE133410148611783511 0
@@ -42,14 +42,17 @@
 117C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\@swc\helpers\_\_write_only_error\package.json133410148710938271 0
 100C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\@parcel\transformer-svg\test133410148625893493 1
 94C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\picomatch\CHANGELOG.md133410148633552608 0
-68C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\index.css133412330264091189 0
+68C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\index.css133427353481179283 0
 107C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\@swc\helpers\_\_update\package.json133410148710716519 0
 119C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\entities\lib\generated\decode-data-xml.d.ts.map133410148670086817 0
 101C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\js-yaml\lib\schema\default.js133410148626430100 0
-69C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\index.html133411822600205781 0
+69C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\index.html133428848527569474 0
 103C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\posthtml-parser\dist\index.d.ts133410148630380599 0
 104C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\nth-check\lib\esm\index.d.ts.map133410148650868956 0
 71C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules133410148747672534 1
+78C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\dotenv133410148624571673 1
+71C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\package.json133411004623494561 0
+101C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\svgo\plugins\removeDoctype.js133410148684509866 0
 118C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\csso\node_modules\css-tree\lib\syntax\index.js133410148703647270 0
 121C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\css-select\lib\esm\pseudo-selectors\subselects.js133410148674307483 0
 90C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\@parcel\fs\LICENSE133410148611935293 0
@@ -83,7 +86,7 @@
 118C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\@swc\helpers\esm\_class_private_method_init.js133410148698088440 0
 138C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\dom-serializer\node_modules\entities\lib\decode_codepoint.d.ts.map133410148639256015 0
 78C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\@babel133410148584182941 1
-86C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\dist\index.9e4c6fd2.css.map133413505218657943 0
+86C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\dist\index.9e4c6fd2.css.map133428848532135496 0
 78C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\@lezer133410148584123056 1
 117C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\@swc\helpers\_\_array_with_holes\package.json133410148703333547 0
 99C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\domelementtype\lib\index.js133410148617246226 0
@@ -223,8 +226,6 @@
 100C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\ordered-binary\tests\test.js133410148626331986 0
 96C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\source-map\lib\base64.js133410148626918461 0
 82C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\color-name133410148616614160 1
-102C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\csso\lib\replace\Percentage.js133410148692961962 0
-81C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\commander133410148631882778 1
 121C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest2.c133410148689769543 0
 89C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\type-fest\license133410148611841231 0
 148C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\lexer\generic-urange.js133410148687890570 0
@@ -1025,8 +1026,6 @@
 93C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\@lezer\common\LICENSE133410148611871231 0
 134C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules\foo133410148683505214 1
 117C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\css-tree\lib\syntax\node\AttributeSelector.js133410148699570091 0
-107C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\css-tree\cjs\syntax\node\String.cjs133410148696717546 0
-117C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\caniuse-lite\data\features\getrandomvalues.js133410148713511294 0
 141C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeDoctype.js133410148685576282 0
 85C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\timsort\build133410148626569384 1
 106C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\@parcel\core\lib\serializerCore.js133410148699817412 0
@@ -1893,7 +1892,7 @@
 97C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\@swc\helpers\src\_set.mjs133410148715850284 0
 105C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\mdn-data\css\at-rules.schema.json133410148628240166 0
 92C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\msgpackr\unpack.d.ts133410148688713637 0
-74C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\dist\index.html133413505218872515 0
+74C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\dist\index.html133428848531826801 0
 99C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\entities\lib\index.d.ts.map133410148673828811 0
 86C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\csso\README.md133410148695118748 0
 85C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\@parcel\graph133410148673057047 1
@@ -2468,6 +2467,7 @@
 101C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\@swc\helpers\esm\_ts_param.js133410148702221279 0
 135C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\csso\node_modules\css-tree\lib\syntax\node\AttributeSelector.js133410148699290987 0
 87C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\globals\license133410148611955854 0
+80C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\.vscode\settings.json133427349281483804 0
 89C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\globals\readme.md133410148625078054 0
 103C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\@parcel\runtime-browser-hmr\lib133410148624743633 1
 91C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\get-port\index.d.ts133410148612906931 0
@@ -3079,7 +3079,7 @@
 141C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\has.js133410148688377012 0
 102C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\csso\cjs\clean\Declaration.cjs133410148673657736 0
 88C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\css-what\LICENSE133410148611743105 0
-92C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\dist\prog-background.0b6c265d.png133413505218575272 0
+92C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\dist\prog-background.0b6c265d.png133427349281523804 0
 129C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\@parcel\core\test\fixtures\config-node-pipeline\.parcelrc133410148625193019 0
 103C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\caniuse-lite\data\regions\NC.js133410148720312305 0
 93C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\css-what\package.json133410148638221913 0
@@ -3298,6 +3298,8 @@
 122C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\css-tree\cjs\syntax\node\PseudoElementSelector.cjs133410148695571381 0
 105C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\css-tree\cjs\syntax\node\Rule.cjs133410148696189280 0
 97C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\@swc\counter\package.json133410148612821173 0
+107C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\css-tree\cjs\syntax\node\String.cjs133410148696717546 0
+117C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\caniuse-lite\data\features\getrandomvalues.js133410148713511294 0
 95C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\@swc\helpers\_\_dispose133410148707315179 1
 142C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\lang.js133410148692049683 0
 113C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\css-tree\cjs\syntax\node\UnicodeRange.cjs133410148698023267 0
@@ -5873,10 +5875,12 @@
 81C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\.bin\svgo133410148737956061 0
 85C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\.bin\svgo.cmd133410148737950325 0
 103C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\node_modules\.bin\update-browserslist-db.cmd133410148737950325 0
+97C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\images\html-system-website-concept.jpg133427349284373412 0
+74C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\images\me_2.jpg133427349284457798 0
 85C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\images\prog-background.png133411780592360035 0
-78C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\images\Untitled.png133411783443675079 0
-102C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\dist\headshot-removebg-preview.b1ee1685.png133411004629827051 0
+102C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\dist\headshot-removebg-preview.b1ee1685.png133428848532135496 0
 85C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\dist\headshot.3494cd30.png133410161245411900 0
-82C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\dist\index.9e4c6fd2.css133413505218503650 0
-87C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\dist\portfolio_2.3464ddca.js133411752870653232 0
-91C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\dist\portfolio_2.3464ddca.js.map133411752870718969 0
+104C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\dist\html-system-website-concept.a7109f3e.jpg133428848538320677 0
+82C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\dist\index.9e4c6fd2.css133428848532087674 0
+87C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\dist\portfolio_2.3464ddca.js133428848532612227 0
+91C:\Users\krist\OneDrive\Desktop\Change Academy\portfolio_2\dist\portfolio_2.3464ddca.js.map133428848532688503 0
